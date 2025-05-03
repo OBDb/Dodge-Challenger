@@ -1,0 +1,15 @@
+generations:
+  - name: "First Generation"
+    start_year: 1970
+    end_year: 1974
+    description: "The original Dodge Challenger was introduced as a late entrant to the pony car wars, competing with the Ford Mustang, Chevrolet Camaro, and its corporate cousin, the Plymouth Barracuda. Available as a hardtop coupe or convertible, it featured distinctive styling with a long hood, short deck, and wide stance. Engine options ranged from the base 225 cubic-inch slant-six to the legendary 426 Hemi V8 in performance-oriented models like the R/T and T/A. The first-generation Challenger gained cultural significance through its appearance in films and its competitive history in Trans Am racing, despite its relatively short production run during a period when muscle car popularity was declining due to rising insurance costs and emissions regulations."
+
+  - name: "Second Generation"
+    start_year: 1978
+    end_year: 1983
+    description: "The second-generation Challenger was a rebadged Mitsubishi Galant Lambda coupe, bearing little resemblance to the original muscle car. This compact, four-cylinder coupe reflected the industry's shift toward fuel efficiency following the 1970s oil crises. Available with a 1.6L, 2.0L, or 2.6L engine, it prioritized economy over performance, though a modest 105 HP was available in the highest output version. This generation is generally considered a footnote in Challenger history, representing Dodge's temporary abandonment of the performance market in favor of practical, efficient transportation during a challenging period for American automakers."
+
+  - name: "Third Generation (LC/LA)"
+    start_year: 2008
+    end_year: 2023
+    description: "The modern Challenger revived the nameplate after a 25-year hiatus, drawing heavy styling inspiration from the 1970 model while incorporating contemporary engineering. Built on a shortened version of the LX platform shared with the Charger sedan, it featured retro-inspired design with modern touches. Initially offered with a 3.5L V6 or 5.7L and 6.1L HEMI V8 engines, the lineup expanded over the years to include the 392 HEMI (6.4L) and the supercharged 6.2L Hellcat variants producing up to 807 HP in the Super Stock model. Unlike its competitors that evolved toward sports car handling, the Challenger maintained a focus on straight-line performance and muscle car character. A significant refresh in 2015 updated the exterior styling and interior technology while introducing more powerful engine options. Throughout its extended production run, Dodge consistently introduced special editions and performance packages that kept the aging platform relevant. The third-generation Challenger concluded production in 2023 with various commemorative Last Call editions, marking the end of the traditional HEMI-powered muscle car era as Dodge transitions toward electrification."
