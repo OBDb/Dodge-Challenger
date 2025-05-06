@@ -1,0 +1,94 @@
+command_id: 7E0.0131
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7E804413150EB
+  expected_values:
+    CLR_DIST: 20715
+- response: '7E80441315100'
+  expected_values:
+    CLR_DIST: 20736
+- response: '7E80441315101'
+  expected_values:
+    CLR_DIST: 20737
+- response: '7E80441315102'
+  expected_values:
+    CLR_DIST: 20738
+- response: '7E80441315103'
+  expected_values:
+    CLR_DIST: 20739
+- response: '7E80441315104'
+  expected_values:
+    CLR_DIST: 20740
+- response: '7E80441315105'
+  expected_values:
+    CLR_DIST: 20741
+- response: '7E80441315106'
+  expected_values:
+    CLR_DIST: 20742
+- response: '7E80441315107'
+  expected_values:
+    CLR_DIST: 20743
+- response: '7E80441315108'
+  expected_values:
+    CLR_DIST: 20744
+- response: '7E80441315109'
+  expected_values:
+    CLR_DIST: 20745
+- response: 7E8044131510A
+  expected_values:
+    CLR_DIST: 20746
+- response: 7E8044131510B
+  expected_values:
+    CLR_DIST: 20747
+- response: 7E8044131510C
+  expected_values:
+    CLR_DIST: 20748
+- response: 7E8044131510D
+  expected_values:
+    CLR_DIST: 20749
+- response: 7E8044131510E
+  expected_values:
+    CLR_DIST: 20750
+- response: 7E8044131510F
+  expected_values:
+    CLR_DIST: 20751
+- response: '7E80441315110'
+  expected_values:
+    CLR_DIST: 20752
+- response: '7E80441315111'
+  expected_values:
+    CLR_DIST: 20753
+- response: '7E80441315112'
+  expected_values:
+    CLR_DIST: 20754
+- response: '7E80441315113'
+  expected_values:
+    CLR_DIST: 20755
+- response: '7E80441315114'
+  expected_values:
+    CLR_DIST: 20756
+- response: '7E80441315116'
+  expected_values:
+    CLR_DIST: 20758
+- response: '7E80441315117'
+  expected_values:
+    CLR_DIST: 20759
+- response: '7E80441315118'
+  expected_values:
+    CLR_DIST: 20760
+- response: 7E8044131511A
+  expected_values:
+    CLR_DIST: 20762
+- response: 7E8044131511B
+  expected_values:
+    CLR_DIST: 20763
+- response: 7E8044131511C
+  expected_values:
+    CLR_DIST: 20764
+- response: 7E8044131511D
+  expected_values:
+    CLR_DIST: 20765
+- response: 7E8044131511E
+  expected_values:
+    CLR_DIST: 20766
