@@ -1,7 +1,8 @@
 command_id: 7E0.012E
-can_id_format: ELEVEN_BIT
-extended_addressing_enabled: false
 test_cases:
+- response: 7E803412E38
+  expected_values:
+    EVAP_PCT: 21.96078
 - response: 7E803412EAB
   expected_values:
     EVAP_PCT: 67.05882
