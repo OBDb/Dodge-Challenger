@@ -1,7 +1,8 @@
 command_id: 7E0.013D
-can_id_format: ELEVEN_BIT
-extended_addressing_enabled: false
 test_cases:
+- response: 7E804413D1478
+  expected_values:
+    CATEMP21: 484
 - response: 7E804413D1B30
   expected_values:
     CATEMP21: 656
