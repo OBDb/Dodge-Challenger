@@ -59,9 +59,9 @@ supported_commands_by_ecu:
   - 0149:APP_D
 unsupported_commands_by_ecu:
   6B4:
-  - 6B4.694.22D410
+  - 6B4.694.22D410:DODGE_HVBAT_SOC
   742:
-  - 742.22A022
+  - 742.22A022|fc=1:DODGE_TP_FL,DODGE_TP_FR,DODGE_TP_RL,DODGE_TP_RR,DODGE_TP_SPARE
   7E1:
   - 7E1.7E9.0131
   7F1:
