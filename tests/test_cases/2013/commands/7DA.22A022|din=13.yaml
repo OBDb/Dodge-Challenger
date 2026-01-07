@@ -1,0 +1,14 @@
+command_id: 7DA.22A022|din=13
+test_cases:
+- expected_values:
+    DODGE_TP_RL_7DA: 0
+  response: 7DB0662A022000000
+- expected_values:
+    DODGE_TP_RL_7DA: 29.00706
+  response: 7DB0662A022504C67
+- expected_values:
+    DODGE_TP_RL_7DA: 30.45741
+  response: 7DB0662A022545A25
+- expected_values:
+    DODGE_TP_RL_7DA: 30.82
+  response: 7DB0662A022555425
