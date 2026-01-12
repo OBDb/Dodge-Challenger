@@ -1,6 +1,9 @@
 command_id: 7DA.22A023|din=03
 test_cases:
 - expected_values:
+    DODGE_TP_RR_7DA: 31.54518
+  response: '7DB 06 62 A0 23 57 58 67 '
+- expected_values:
     DODGE_TP_RR_7DA: 0
   response: |-
     7DB065003001400C8
