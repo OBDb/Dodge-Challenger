@@ -16,7 +16,7 @@ test_cases:
   response: 7DB0662A023544D67
 - expected_values:
     DODGE_TP_RR_7DA: 32.27035
-  response: 7DB0662A023595A07
+  response: 7DB0662A023595C07
 - expected_values:
     DODGE_TP_RR_7DA: 32.63294
   response: 7DB0662A0235A5926
