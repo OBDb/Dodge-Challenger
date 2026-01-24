@@ -5,7 +5,7 @@ test_cases:
   response: 7E9066204FE252626
 - expected_values:
     DODGE_ATF_T: 30.2
-  response: 7E9066204FE272425
+  response: 7E9066204FE272222
 - expected_values:
     DODGE_ATF_T: 201.2
   response: 7E9066204FE868687
