@@ -1,3 +1,6 @@
+references:
+  - "https://en.wikipedia.org/wiki/Dodge_Challenger"
+
 generations:
   - name: "First Generation"
     start_year: 1970
