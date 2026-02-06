@@ -4,5 +4,5 @@ test_cases:
     DODGE_ODO: 57565.184
   response: 7E80562043B1B73
 - expected_values:
-    DODGE_ODO: 58187.776
-  response: 7E80562043B1BBF
+    DODGE_ODO: 58212.352
+  response: 7E80562043B1BC2
