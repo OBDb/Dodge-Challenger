@@ -1,8 +1,14 @@
 command_id: 7E1.7E9.215C|fc=1
 test_cases:
 - expected_values:
+    DODGE_ATF_T_3RDGEN_V2: 48
+  response: 7E907615C0000024E62
+- expected_values:
     DODGE_ATF_T_3RDGEN_V2: 47
   response: 7E907615C0110043161
+- expected_values:
+    DODGE_ATF_T_3RDGEN_V2: 46
+  response: 7E907615C0230044460
 - expected_values:
     DODGE_ATF_T_3RDGEN_V2: 55
   response: 7E907615C0DD0005069
