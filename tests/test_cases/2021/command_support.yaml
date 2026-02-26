@@ -3,6 +3,7 @@ supported_commands_by_ecu:
   "763":
   - 763.4E3.22032D|fc=1:DODGE_HIGHBEAMS_MODE,DODGE_HIGHBEAMS_ON,DODGE_REAR_WIPER
   "7DF":
+  - 7DF.0105
   - 7DF.010D
   - 7DF.0131
   - 7DF.01A6
