@@ -6,3 +6,8 @@ test_cases:
 - expected_values:
     DODGE_GEAR_TARGET: PARK
   response: 7E9046255040D
+- expected_values:
+    DODGE_GEAR_TARGET: PARK
+  response: |-
+    7E9046255040D
+    7E9046255040D
