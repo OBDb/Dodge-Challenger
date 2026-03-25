@@ -1,17 +1,14 @@
 command_id: 7E1.7E9.215C|fc=1
 test_cases:
 - expected_values:
+    DODGE_ATF_T_3RDGEN_V2: 72
+  response: 7E907615C00B001527A
+- expected_values:
     DODGE_ATF_T_3RDGEN_V2: 70
   response: 7E907615C0110044478
 - expected_values:
-    DODGE_ATF_T_3RDGEN_V2: 71
-  response: 7E907615C0110044479
+    DODGE_ATF_T_3RDGEN_V2: 102
+  response: 7E907615C0DD0005098
 - expected_values:
-    DODGE_ATF_T_3RDGEN_V2: 72
-  response: 7E907615C011004447A
-- expected_values:
-    DODGE_ATF_T_3RDGEN_V2: 71
-  response: 7E907615C0230044479
-- expected_values:
-    DODGE_ATF_T_3RDGEN_V2: 71
-  response: 7E907615C0550044479
+    DODGE_ATF_T_3RDGEN_V2: 103
+  response: 7E907615C0DD0005099
