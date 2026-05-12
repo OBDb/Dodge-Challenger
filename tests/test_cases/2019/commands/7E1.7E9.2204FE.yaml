@@ -7,5 +7,8 @@ test_cases:
     DODGE_ATF_T: 131
   response: 7E9066204FE5F5D5D
 - expected_values:
-    DODGE_ATF_T: 150.8
-  response: 7E9066204FE6A6868
+    DODGE_ATF_T: 201.2
+  response: 7E9066204FE868786
+- expected_values:
+    DODGE_ATF_T: 204.8
+  response: 7E9066204FE888685
