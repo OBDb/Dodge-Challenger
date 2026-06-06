@@ -4,5 +4,10 @@ test_cases:
     DODGE_GEAR: NEUTRAL
   response: '7E90462550300'
 - expected_values:
+    DODGE_GEAR: '1'
+  response: |-
+    7E90462550301
+    7E90462550301
+- expected_values:
     DODGE_GEAR: PARK
   response: 7E9046255030D
