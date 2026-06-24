@@ -10,8 +10,8 @@ test_cases:
     DODGE_ATF_T_3RDGEN_V2: 54
   response: 7E907615C00B0015268
 - expected_values:
-    DODGE_ATF_T_3RDGEN_V2: 45
-  response: 7E907615C011004315F
+    DODGE_ATF_T_3RDGEN_V2: 35
+  response: 7E907615C0110043155
 - expected_values:
     DODGE_ATF_T_3RDGEN_V2: 34
   response: 7E907615C0220043254
