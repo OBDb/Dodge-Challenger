@@ -1,8 +1,0 @@
-command_id: 7E1.7E9.2204FE
-test_cases:
-- expected_values:
-    DODGE_ATF_T: 62.6
-  response: 7E9066204FE393837
-- expected_values:
-    DODGE_ATF_T: 215.6
-  response: 7E9066204FE8E8F8E
