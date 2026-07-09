@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22043B
+test_cases:
+- expected_values:
+    DODGE_ODO: 83615.744
+  response: 7E80562043B27DF
+- expected_values:
+    DODGE_ODO: 85991.424
+  response: 7E80562043B2901
+- expected_values:
+    DODGE_ODO: 88072.192
+  response: 7E80562043B29FF
+- expected_values:
+    DODGE_ODO: 88137.728
+  response: 7E80562043B2A07

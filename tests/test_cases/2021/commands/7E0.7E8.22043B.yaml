@@ -1,0 +1,34 @@
+command_id: 7E0.7E8.22043B
+test_cases:
+- expected_values:
+    DODGE_ODO: 57565.184
+  response: 7E80562043B1B73
+- expected_values:
+    DODGE_ODO: 58712.064
+  response: 7E80562043B1BFF
+- expected_values:
+    DODGE_ODO: 60604.416
+  response: |-
+    7E80562043B1CE6
+    7E80562043B1CE6
+- expected_values:
+    DODGE_ODO: 60817.408
+  response: 7E80562043B1D00
+- expected_values:
+    DODGE_ODO: 63094.784
+  response: |-
+    7E80562043B1E16
+    7E80562043B1E16
+- expected_values:
+    DODGE_ODO: 63447.04
+  response: |-
+    7E80562043B1E41
+    7E80562043B1E41
+- expected_values:
+    DODGE_ODO: 64315.392
+  response: |-
+    7E80562043B1EAB
+    7E80562043B1EAB
+- expected_values:
+    DODGE_ODO: 67108.864
+  response: 7E80562043B2000
