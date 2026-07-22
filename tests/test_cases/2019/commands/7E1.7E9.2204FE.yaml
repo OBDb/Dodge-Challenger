@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     DODGE_ATF_T: 215.6
   response: 7E9066204FE8E8F8E
+- expected_values:
+    DODGE_ATF_T: 219.2
+  response: 7E9066204FE908E8D
