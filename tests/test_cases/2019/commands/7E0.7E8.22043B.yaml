@@ -10,5 +10,5 @@ test_cases:
     DODGE_ODO: 88072.192
   response: 7E80562043B29FF
 - expected_values:
-    DODGE_ODO: 88137.728
-  response: 7E80562043B2A07
+    DODGE_ODO: 94576.64
+  response: 7E80562043B2D19
