@@ -30,5 +30,5 @@ test_cases:
     7E80562043B1EAB
     7E80562043B1EAB
 - expected_values:
-    DODGE_ODO: 69206.016
-  response: 7E80562043B2100
+    DODGE_ODO: 71319.552
+  response: 7E80562043B2202
