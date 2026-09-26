@@ -1,6 +1,12 @@
 command_id: 7E0.7E8.22043B
 test_cases:
 - expected_values:
+    DODGE_ODO: 72179.712
+  response: '7E8 05 62 04 3B 22 6B '
+- expected_values:
+    DODGE_ODO: 72196.096
+  response: '7E8 05 62 04 3B 22 6D '
+- expected_values:
     DODGE_ODO: 57565.184
   response: 7E80562043B1B73
 - expected_values:
