@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.220109
+test_cases:
+- expected_values:
+    DODGE_BAROMETRIC_P: 143.55
+  response: 7E80562010901EF
+- expected_values:
+    DODGE_BAROMETRIC_P: 144.13
+  response: 7E80562010901F1
+- expected_values:
+    DODGE_BAROMETRIC_P: 144.42
+  response: 7E80562010901F2
+- expected_values:
+    DODGE_BAROMETRIC_P: 144.71
+  response: 7E80562010901F3
+- expected_values:
+    DODGE_BAROMETRIC_P: 145
+  response: 7E80562010901F4
+- expected_values:
+    DODGE_BAROMETRIC_P: 145.29
+  response: 7E80562010901F5
+- expected_values:
+    DODGE_BAROMETRIC_P: 145.87
+  response: 7E80562010901F7
+- expected_values:
+    DODGE_BAROMETRIC_P: 146.74
+  response: 7E80562010901FA

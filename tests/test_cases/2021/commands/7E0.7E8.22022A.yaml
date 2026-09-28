@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22022A
+test_cases:
+- expected_values:
+    DODGE_EOP: 8.12
+  response: 7E80462022A0E
+- expected_values:
+    DODGE_EOP: 99.76
+  response: 7E80462022AAC
