@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2202B4
+test_cases:
+- expected_values:
+    DODGE_REQUIRED_FUEL_CHG_3: 4.1875
+  response: 7E8056202B4010C
+- expected_values:
+    DODGE_REQUIRED_FUEL_CHG_3: 7.96875
+  response: 7E8056202B401FE
+- expected_values:
+    DODGE_REQUIRED_FUEL_CHG_3: 16
+  response: 7E8056202B40400
+- expected_values:
+    DODGE_REQUIRED_FUEL_CHG_3: 40.625
+  response: 7E8056202B40A28
