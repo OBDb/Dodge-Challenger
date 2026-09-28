@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221737
+test_cases:
+- expected_values:
+    DODGE_FL_WHL_SPD: 0
+  response: '7E8056217370000'
+- expected_values:
+    DODGE_FL_WHL_SPD: 51.9375
+  response: 7E8056217370CFC
+- expected_values:
+    DODGE_FL_WHL_SPD: 108.5
+  response: 7E8056217371B20

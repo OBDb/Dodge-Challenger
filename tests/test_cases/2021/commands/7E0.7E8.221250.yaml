@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.221250
+test_cases:
+- expected_values:
+    DODGE_CHG_AIR_T: 64.6
+  response: '7E80462125052'
+- expected_values:
+    DODGE_CHG_AIR_T: 102.4
+  response: '7E80462125067'
