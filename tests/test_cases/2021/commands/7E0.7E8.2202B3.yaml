@@ -7,8 +7,13 @@ test_cases:
     DODGE_REQUIRED_FUEL_CHG_2: 7.96875
   response: 7E8056202B301FE
 - expected_values:
+    DODGE_REQUIRED_FUEL_CHG_2: 12.78125
+  response: |-
+    7E8056202B30332
+    7E8056202B30332
+- expected_values:
     DODGE_REQUIRED_FUEL_CHG_2: 20.03125
   response: 7E8056202B30502
 - expected_values:
-    DODGE_REQUIRED_FUEL_CHG_2: 57.5625
-  response: 7E8056202B30E64
+    DODGE_REQUIRED_FUEL_CHG_2: 67.85938
+  response: 7E8056202B310F7

@@ -2,25 +2,7 @@ command_id: 7E0.7E8.220227
 test_cases:
 - expected_values:
     DODGE_FLI_INPUT: 100
-  response: 7E804620227AE
-- expected_values:
-    DODGE_FLI_INPUT: 100
-  response: 7E804620227AF
-- expected_values:
-    DODGE_FLI_INPUT: 100
-  response: 7E804620227B0
-- expected_values:
-    DODGE_FLI_INPUT: 100
-  response: 7E804620227B1
-- expected_values:
-    DODGE_FLI_INPUT: 100
-  response: 7E804620227B2
-- expected_values:
-    DODGE_FLI_INPUT: 100
-  response: 7E804620227B3
-- expected_values:
-    DODGE_FLI_INPUT: 100
-  response: 7E804620227B4
+  response: 7E804620227A7
 - expected_values:
     DODGE_FLI_INPUT: 100
   response: 7E804620227B5

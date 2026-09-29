@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     DODGE_AAT: 71.8
   response: '7E80462012756'
+- expected_values:
+    DODGE_AAT: 73.6
+  response: '7E80462012757'
