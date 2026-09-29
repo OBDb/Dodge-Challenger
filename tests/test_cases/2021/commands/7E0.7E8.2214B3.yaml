@@ -2,6 +2,9 @@ command_id: 7E0.7E8.2214B3
 test_cases:
 - expected_values:
     DODGE_THROTTLE_INLET_AIR_T_RAW: -64
+  response: 7E8056214B30000
+- expected_values:
+    DODGE_THROTTLE_INLET_AIR_T_RAW: -64
   response: |-
     7E8056214B30000
     7E8056214B30000

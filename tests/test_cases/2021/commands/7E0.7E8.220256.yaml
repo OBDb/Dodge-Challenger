@@ -4,8 +4,8 @@ test_cases:
     DODGE_FUEL_MASS_CYL_2: 0
   response: '7E8056202560000'
 - expected_values:
-    DODGE_FUEL_MASS_CYL_2: 27.95312
-  response: 7E80562025606FD
+    DODGE_FUEL_MASS_CYL_2: 23.95312
+  response: 7E80562025605FD
 - expected_values:
-    DODGE_FUEL_MASS_CYL_2: 41.89062
-  response: 7E8056202560A79
+    DODGE_FUEL_MASS_CYL_2: 40.21875
+  response: 7E8056202560A0E
