@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.220329
 test_cases:
 - expected_values:
-    DODGE_AC_HIGH_SIDE_P: 462
+    CHALLENGER_AC_HIGH_SIDE_P: 462
   response: '7E80462032921'
 - expected_values:
-    DODGE_AC_HIGH_SIDE_P: 1414
+    CHALLENGER_AC_HIGH_SIDE_P: 1414
   response: '7E80462032965'

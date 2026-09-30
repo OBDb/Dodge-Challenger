@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.221739
 test_cases:
 - expected_values:
-    DODGE_RL_WHL_SPD: 0
+    CHALLENGER_RL_WHL_SPD: 0
   response: '7E8056217390000'
 - expected_values:
-    DODGE_RL_WHL_SPD: 43.9375
+    CHALLENGER_RL_WHL_SPD: 43.9375
   response: 7E8056217390AFC
 - expected_values:
-    DODGE_RL_WHL_SPD: 120.75
+    CHALLENGER_RL_WHL_SPD: 120.75
   response: 7E8056217391E30

@@ -1,16 +1,16 @@
 command_id: 7E0.7E8.2206C2
 test_cases:
 - expected_values:
-    DODGE_INT_CAM_1_OFFSET: 1
+    CHALLENGER_INT_CAM_1_OFFSET: 1
   response: 7E8056206C2000A
 - expected_values:
-    DODGE_INT_CAM_1_OFFSET: 25
+    CHALLENGER_INT_CAM_1_OFFSET: 25
   response: 7E8056206C200FA
 - expected_values:
-    DODGE_INT_CAM_1_OFFSET: -4.9
+    CHALLENGER_INT_CAM_1_OFFSET: -4.9
   response: 7E8056206C2FFCF
 - expected_values:
-    DODGE_INT_CAM_1_OFFSET: -4.5
+    CHALLENGER_INT_CAM_1_OFFSET: -4.5
   response: |-
     7E8056206C2FFD3
     7E8056206C2FFD3
