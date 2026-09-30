@@ -7,5 +7,5 @@ test_cases:
     DODGE_RR_WHL_SPD: 87.9375
   response: 7E80562173A15FC
 - expected_values:
-    DODGE_RR_WHL_SPD: 116.375
-  response: 7E80562173A1D18
+    DODGE_RR_WHL_SPD: 123.4375
+  response: 7E80562173A1EDC

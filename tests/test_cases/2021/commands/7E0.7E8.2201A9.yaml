@@ -10,5 +10,5 @@ test_cases:
     DODGE_KNOCK_SENS_1: 0.33204
   response: 7E8056201A91100
 - expected_values:
-    DODGE_KNOCK_SENS_1: 1.68948
-  response: 7E8056201A95680
+    DODGE_KNOCK_SENS_1: 2.11917
+  response: 7E8056201A96C80
