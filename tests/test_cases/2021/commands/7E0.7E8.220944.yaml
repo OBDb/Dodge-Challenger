@@ -10,5 +10,5 @@ test_cases:
     DODGE_BRAKE_BOOSTER_P: 76.8
   response: 7E8056209441E00
 - expected_values:
-    DODGE_BRAKE_BOOSTER_P: 79.55
-  response: 7E8056209441F13
+    DODGE_BRAKE_BOOSTER_P: 82.3
+  response: '7E8056209442026'

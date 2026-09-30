@@ -7,8 +7,8 @@ test_cases:
     DODGE_INT_CAM_1_OFFSET: 25
   response: 7E8056206C200FA
 - expected_values:
-    DODGE_INT_CAM_1_OFFSET: -4.7
-  response: 7E8056206C2FFD1
+    DODGE_INT_CAM_1_OFFSET: -4.9
+  response: 7E8056206C2FFCF
 - expected_values:
     DODGE_INT_CAM_1_OFFSET: -4.5
   response: |-

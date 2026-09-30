@@ -4,5 +4,5 @@ test_cases:
     DODGE_VARIABLE_VLV_TIM_OIL_T: 16
   response: 7E80462069F50
 - expected_values:
-    DODGE_VARIABLE_VLV_TIM_OIL_T: 92
-  response: 7E80462069F9C
+    DODGE_VARIABLE_VLV_TIM_OIL_T: 97
+  response: 7E80462069FA1
