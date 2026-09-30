@@ -3,3 +3,8 @@ test_cases:
 - expected_values:
     DODGE_VGT_CMD_189F: -100
   response: 7E80562189F0000
+- expected_values:
+    DODGE_VGT_CMD_189F: -100
+  response: |-
+    7E80562189F0000
+    7E80562189F0000
