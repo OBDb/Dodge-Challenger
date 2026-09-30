@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.220174
 test_cases:
 - expected_values:
-    DODGE_MAP: 18.4
-  response: 7E805620174005C
+    DODGE_MAP: 18.2
+  response: 7E805620174005B
 - expected_values:
-    DODGE_MAP: 49.8
-  response: 7E80562017400F9
+    DODGE_MAP: 50.4
+  response: 7E80562017400FC
 - expected_values:
     DODGE_MAP: 51.4
   response: '7E8056201740101'

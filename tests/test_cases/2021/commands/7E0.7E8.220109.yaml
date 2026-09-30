@@ -4,5 +4,8 @@ test_cases:
     DODGE_BAROMETRIC_P: 143.55
   response: 7E80562010901EF
 - expected_values:
-    DODGE_BAROMETRIC_P: 147.61
-  response: 7E80562010901FD
+    DODGE_BAROMETRIC_P: 147.9
+  response: 7E80562010901FE
+- expected_values:
+    DODGE_BAROMETRIC_P: 149.64
+  response: '7E8056201090204'
