@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.2201A9
 test_cases:
 - expected_values:
-    DODGE_KNOCK_SENS_1: 0.33692
-  response: 7E8056201A91140
+    DODGE_KNOCK_SENS_1: 0.32227
+  response: 7E8056201A91080
 - expected_values:
-    DODGE_KNOCK_SENS_1: 0.34668
-  response: 7E8056201A911C0
+    DODGE_KNOCK_SENS_1: 0.32715
+  response: 7E8056201A910C0
 - expected_values:
-    DODGE_KNOCK_SENS_1: 0.35157
-  response: 7E8056201A91200
+    DODGE_KNOCK_SENS_1: 0.33204
+  response: 7E8056201A91100
 - expected_values:
-    DODGE_KNOCK_SENS_1: 1.5967
-  response: 7E8056201A951C0
+    DODGE_KNOCK_SENS_1: 1.68948
+  response: 7E8056201A95680

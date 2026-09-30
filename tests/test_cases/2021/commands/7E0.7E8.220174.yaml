@@ -4,8 +4,8 @@ test_cases:
     DODGE_MAP: 18.4
   response: 7E805620174005C
 - expected_values:
-    DODGE_MAP: 49.4
-  response: 7E80562017400F7
+    DODGE_MAP: 49.8
+  response: 7E80562017400F9
 - expected_values:
-    DODGE_MAP: 52
-  response: '7E8056201740104'
+    DODGE_MAP: 51.4
+  response: '7E8056201740101'

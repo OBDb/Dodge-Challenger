@@ -4,8 +4,8 @@ test_cases:
     DODGE_INJ_WIDTH_CYL_3: 0
   response: '7E80762023600000000'
 - expected_values:
-    DODGE_INJ_WIDTH_CYL_3: 2.808
-  response: 7E80762023600000AF8
+    DODGE_INJ_WIDTH_CYL_3: 1.016
+  response: 7E807620236000003F8
 - expected_values:
     DODGE_INJ_WIDTH_CYL_3: 12.264
   response: 7E80762023600002FE8

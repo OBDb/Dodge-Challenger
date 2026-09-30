@@ -4,5 +4,10 @@ test_cases:
     DODGE_CHG_AIR_T: 64.6
   response: '7E80462125052'
 - expected_values:
+    DODGE_CHG_AIR_T: 73.6
+  response: |-
+    7E80462125057
+    7E80462125057
+- expected_values:
     DODGE_CHG_AIR_T: 102.4
   response: '7E80462125067'
