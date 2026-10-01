@@ -4,5 +4,5 @@ test_cases:
     CHALLENGER_IAT_01FF: 18
   response: 7E8056201FF0052
 - expected_values:
-    CHALLENGER_IAT_01FF: 46
-  response: 7E8056201FF006E
+    CHALLENGER_IAT_01FF: 63
+  response: 7E8056201FF007F

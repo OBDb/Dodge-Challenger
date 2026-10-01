@@ -9,5 +9,5 @@ test_cases:
     7E80462125057
     7E80462125057
 - expected_values:
-    CHALLENGER_CHG_AIR_T: 102.4
-  response: '7E80462125067'
+    CHALLENGER_CHG_AIR_T: 136.6
+  response: 7E8046212507A
