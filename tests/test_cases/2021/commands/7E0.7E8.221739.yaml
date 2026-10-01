@@ -7,5 +7,5 @@ test_cases:
     CHALLENGER_RL_WHL_SPD: 43.9375
   response: 7E8056217390AFC
 - expected_values:
-    CHALLENGER_RL_WHL_SPD: 120.75
-  response: 7E8056217391E30
+    CHALLENGER_RL_WHL_SPD: 132.4375
+  response: 7E805621739211C

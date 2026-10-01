@@ -4,8 +4,8 @@ test_cases:
     CHALLENGER_BAROMETRIC_P: 99
   response: 7E80562010901EF
 - expected_values:
-    CHALLENGER_BAROMETRIC_P: 102
-  response: 7E80562010901FE
+    CHALLENGER_BAROMETRIC_P: 102.2
+  response: 7E80562010901FF
 - expected_values:
     CHALLENGER_BAROMETRIC_P: 103.2
   response: '7E8056201090204'
