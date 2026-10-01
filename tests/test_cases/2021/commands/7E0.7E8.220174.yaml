@@ -1,8 +1,13 @@
 command_id: 7E0.7E8.220174
 test_cases:
 - expected_values:
-    CHALLENGER_MAP: 18.2
-  response: 7E805620174005B
+    CHALLENGER_MAP: 18
+  response: 7E805620174005A
+- expected_values:
+    CHALLENGER_MAP: 37.4
+  response: |-
+    7E80562017400B6
+    7E80562017400BB
 - expected_values:
     CHALLENGER_MAP: 50.4
   response: 7E80562017400FC

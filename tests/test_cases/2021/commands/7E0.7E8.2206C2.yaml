@@ -7,8 +7,8 @@ test_cases:
     CHALLENGER_INT_CAM_1_OFFSET: 25
   response: 7E8056206C200FA
 - expected_values:
-    CHALLENGER_INT_CAM_1_OFFSET: -4.9
-  response: 7E8056206C2FFCF
+    CHALLENGER_INT_CAM_1_OFFSET: -5
+  response: 7E8056206C2FFCE
 - expected_values:
     CHALLENGER_INT_CAM_1_OFFSET: -4.5
   response: |-
