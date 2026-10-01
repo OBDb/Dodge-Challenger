@@ -21,19 +21,19 @@
   ]},
 { "hdr": "7DA", "cmd": {"22": "A020"}, "freq": 15, "filter": { "to": 2016 }, "dbgfilter": { "to": 2012, "from": 2014 },
   "signals": [
-    {"id": "CHALLENGER_TP_FL_7DA", "path": "Tires", "fmt": { "len": 8, "max": 92, "mul": 1541, "div": 4250, "unit": "psi" }, "name": "Front left tire pressure", "suggestedMetric": "frontLeftTirePressure"}
+    {"id": "CHALLENGER_TP_FL_7DA", "path": "Tires", "fmt": { "len": 8, "max": 92, "mul": 1541, "div": 4250, "nullmin": 0, "unit": "psi" }, "name": "Front left tire pressure", "suggestedMetric": "frontLeftTirePressure"}
   ]},
 { "hdr": "7DA", "cmd": {"22": "A021"}, "freq": 15, "filter": { "to": 2016 }, "dbgfilter": { "to": 2012, "from": 2014 },
   "signals": [
-    {"id": "CHALLENGER_TP_FR_7DA", "path": "Tires", "fmt": { "len": 8, "max": 92, "mul": 1541, "div": 4250, "unit": "psi" }, "name": "Front right tire pressure", "suggestedMetric": "frontRightTirePressure"}
+    {"id": "CHALLENGER_TP_FR_7DA", "path": "Tires", "fmt": { "len": 8, "max": 92, "mul": 1541, "div": 4250, "nullmin": 0, "unit": "psi" }, "name": "Front right tire pressure", "suggestedMetric": "frontRightTirePressure"}
   ]},
 { "hdr": "7DA", "cmd": {"22": "A022"}, "freq": 15, "filter": { "to": 2016 }, "dbgfilter": { "to": 2012, "from": 2014 },
   "signals": [
-    {"id": "CHALLENGER_TP_RL_7DA", "path": "Tires", "fmt": { "len": 8, "max": 92, "mul": 1541, "div": 4250, "unit": "psi" }, "name": "Rear left tire pressure", "suggestedMetric": "rearLeftTirePressure"}
+    {"id": "CHALLENGER_TP_RL_7DA", "path": "Tires", "fmt": { "len": 8, "max": 92, "mul": 1541, "div": 4250, "nullmin": 0, "unit": "psi" }, "name": "Rear left tire pressure", "suggestedMetric": "rearLeftTirePressure"}
   ]},
 { "hdr": "7DA", "cmd": {"22": "A023"}, "freq": 15, "filter": { "to": 2016 }, "dbgfilter": { "to": 2012, "from": 2014 },
   "signals": [
-    {"id": "CHALLENGER_TP_RR_7DA", "path": "Tires", "fmt": { "len": 8, "max": 92, "mul": 1541, "div": 4250, "unit": "psi" }, "name": "Rear right tire pressure", "suggestedMetric": "rearRightTirePressure"}
+    {"id": "CHALLENGER_TP_RR_7DA", "path": "Tires", "fmt": { "len": 8, "max": 92, "mul": 1541, "div": 4250, "nullmin": 0, "unit": "psi" }, "name": "Rear right tire pressure", "suggestedMetric": "rearRightTirePressure"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"21": "17"}, "freq": 1, "filter": { "to": 2018 },
   "signals": [
@@ -87,7 +87,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "012B"}, "freq": 5, "dbgfilter": { "to": 2020, "from": 2022 },
   "signals": [
-    {"id": "CHALLENGER_CAT_MODEL_T", "path": "Engine", "fmt": {"bix": 8, "len": 8, "max": 191, "min": -64, "add": -64, "unit": "celsius" }, "name": "Catalyst modeled temperature"}
+    {"id": "CHALLENGER_CAT_MODEL_T", "path": "Engine", "fmt": { "len": 16, "max": 1000, "unit": "celsius" }, "name": "Catalyst modeled temperature"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0174"}, "freq": 1, "dbgfilter": { "to": 2020, "from": 2022 },
   "signals": [
