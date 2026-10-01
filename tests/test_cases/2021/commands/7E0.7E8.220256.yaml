@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.220256
 test_cases:
 - expected_values:
-    DODGE_FUEL_MASS_CYL_2: 0
+    CHALLENGER_FUEL_MASS_CYL_2: 0
   response: '7E8056202560000'
 - expected_values:
-    DODGE_FUEL_MASS_CYL_2: 23.95312
+    CHALLENGER_FUEL_MASS_CYL_2: 23.95312
   response: 7E80562025605FD
 - expected_values:
-    DODGE_FUEL_MASS_CYL_2: 50.29688
+    CHALLENGER_FUEL_MASS_CYL_2: 50.29688
   response: 7E8056202560C93

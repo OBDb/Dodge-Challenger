@@ -1,29 +1,29 @@
 command_id: 7E0.7E8.220127
 test_cases:
 - expected_values:
-    DODGE_AAT: 68.2
+    CHALLENGER_AAT: 68.2
   response: '7E80462012754'
 - expected_values:
-    DODGE_AAT: 70
+    CHALLENGER_AAT: 70
   response: '7E80462012755'
 - expected_values:
-    DODGE_AAT: 71.8
+    CHALLENGER_AAT: 71.8
   response: '7E80462012756'
 - expected_values:
-    DODGE_AAT: 73.6
+    CHALLENGER_AAT: 73.6
   response: '7E80462012757'
 - expected_values:
-    DODGE_AAT: 75.4
+    CHALLENGER_AAT: 75.4
   response: '7E80462012758'
 - expected_values:
-    DODGE_AAT: 79
+    CHALLENGER_AAT: 79
   response: 7E8046201275A
 - expected_values:
-    DODGE_AAT: 80.8
+    CHALLENGER_AAT: 80.8
   response: 7E8046201275B
 - expected_values:
-    DODGE_AAT: 82.6
+    CHALLENGER_AAT: 82.6
   response: 7E8046201275C
 - expected_values:
-    DODGE_AAT: 84.4
+    CHALLENGER_AAT: 84.4
   response: 7E8046201275D

@@ -1,44 +1,44 @@
-command_id: 7E1.7E9.2204FE
+command_id: 7E1.7E9.2204FE|f=2018-
 test_cases:
 - expected_values:
-    DODGE_ATF_T: 132.8
+    CHALLENGER_ATF_T: 132.8
   response: '7E9 06 62 04 FE 60 5D 5F '
 - expected_values:
-    DODGE_ATF_T: 132.8
+    CHALLENGER_ATF_T: 132.8
   response: '7E9 06 62 04 FE 60 5E 60 '
 - expected_values:
-    DODGE_ATF_T: 150.8
+    CHALLENGER_ATF_T: 150.8
   response: '7E9 06 62 04 FE 6A 69 6B '
 - expected_values:
-    DODGE_ATF_T: 152.6
+    CHALLENGER_ATF_T: 152.6
   response: '7E9 06 62 04 FE 6B 69 6B '
 - expected_values:
-    DODGE_ATF_T: 26.6
+    CHALLENGER_ATF_T: 26.6
   response: 7E9066204FE252626
 - expected_values:
-    DODGE_ATF_T: 30.2
+    CHALLENGER_ATF_T: 30.2
   response: 7E9066204FE272222
 - expected_values:
-    DODGE_ATF_T: 140
+    CHALLENGER_ATF_T: 140
   response: |-
     7E9066204FE636062
     7E9066204FE646163
 - expected_values:
-    DODGE_ATF_T: 161.6
+    CHALLENGER_ATF_T: 161.6
   response: |-
     7E9066204FE706E70
     7E9066204FE706E70
 - expected_values:
-    DODGE_ATF_T: 192.2
+    CHALLENGER_ATF_T: 192.2
   response: |-
     7E9066204FE807F80
     7E9066204FE817E80
 - expected_values:
-    DODGE_ATF_T: 201.2
+    CHALLENGER_ATF_T: 201.2
   response: 7E9066204FE868687
 - expected_values:
-    DODGE_ATF_T: 201.2
+    CHALLENGER_ATF_T: 201.2
   response: 7E9066204FE868688
 - expected_values:
-    DODGE_ATF_T: 204.8
+    CHALLENGER_ATF_T: 204.8
   response: 7E9066204FE888687

@@ -1,8 +1,8 @@
-command_id: 7E1.7E9.225503|fc=1
+command_id: 7E1.7E9.225503|fc=1,f=2018-
 test_cases:
 - expected_values:
-    DODGE_GEAR: NEUTRAL
+    CHALLENGER_GEAR: NEUTRAL
   response: '7E90462550300'
 - expected_values:
-    DODGE_GEAR: PARK
+    CHALLENGER_GEAR: PARK
   response: 7E9046255030D

@@ -1,0 +1,29 @@
+command_id: 7E1.7E9.215C|fc=1,f=-2016
+test_cases:
+- expected_values:
+    CHALLENGER_ATF_T_3RDGEN_V2: 45
+  response: 7E907615C0000024E5F
+- expected_values:
+    CHALLENGER_ATF_T_3RDGEN_V2: 94
+  response: 7E907615C0000024E90
+- expected_values:
+    CHALLENGER_ATF_T_3RDGEN_V2: 38
+  response: 7E907615C0010044458
+- expected_values:
+    CHALLENGER_ATF_T_3RDGEN_V2: 39
+  response: 7E907615C00B0015259
+- expected_values:
+    CHALLENGER_ATF_T_3RDGEN_V2: 35
+  response: 7E907615C0110043155
+- expected_values:
+    CHALLENGER_ATF_T_3RDGEN_V2: 34
+  response: 7E907615C0220043254
+- expected_values:
+    CHALLENGER_ATF_T_3RDGEN_V2: 49
+  response: 7E907615C02E0044463
+- expected_values:
+    CHALLENGER_ATF_T_3RDGEN_V2: 43
+  response: 7E907615C033000445D
+- expected_values:
+    CHALLENGER_ATF_T_3RDGEN_V2: 60
+  response: 7E907615C0DB001526E

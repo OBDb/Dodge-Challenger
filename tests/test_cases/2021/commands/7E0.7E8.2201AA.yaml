@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.2201AA
 test_cases:
 - expected_values:
-    DODGE_KNOCK_SENS_2: 0.35157
+    CHALLENGER_KNOCK_SENS_2: 0.35157
   response: 7E8056201AA1200
 - expected_values:
-    DODGE_KNOCK_SENS_2: 0.36622
+    CHALLENGER_KNOCK_SENS_2: 0.36622
   response: 7E8056201AA12C0
 - expected_values:
-    DODGE_KNOCK_SENS_2: 3.02251
+    CHALLENGER_KNOCK_SENS_2: 3.02251
   response: 7E8056201AA9AC0
