@@ -1,11 +1,13 @@
 command_id: 7DA.22A020|f=-2016
 test_cases:
 - expected_values:
-    CHALLENGER_TP_FL_7DA: 30.45741
-  response: 7DB0662A020544D07
+    CHALLENGER_TP_FL_7DA: null
+  response: |-
+    7DB065003001400C8
+    7DB0662A020000000
 - expected_values:
-    CHALLENGER_TP_FL_7DA: 30.82
-  response: 7DB0662A020554C07
+    CHALLENGER_TP_FL_7DA: null
+  response: 7DB0662A020000000
 - expected_values:
     CHALLENGER_TP_FL_7DA: 30.82
   response: 7DB0662A020554D67
@@ -15,3 +17,8 @@ test_cases:
 - expected_values:
     CHALLENGER_TP_FL_7DA: 32.99553
   response: 7DB0662A0205B5B26
+- expected_values:
+    CHALLENGER_TP_FL_7DA: null
+  response: |-
+    7DB0662A023000000
+    7DB0662A020000000

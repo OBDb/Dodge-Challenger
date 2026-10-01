@@ -4,11 +4,13 @@ test_cases:
     CHALLENGER_TP_RR_7DA: 31.54518
   response: '7DB 06 62 A0 23 57 58 67 '
 - expected_values:
-    CHALLENGER_TP_RR_7DA: 30.09482
-  response: 7DB0662A023534E26
+    CHALLENGER_TP_RR_7DA: null
+  response: |-
+    7DB065003001400C8
+    7DB0662A023000000
 - expected_values:
-    CHALLENGER_TP_RR_7DA: 30.45741
-  response: 7DB0662A023544D07
+    CHALLENGER_TP_RR_7DA: null
+  response: 7DB0662A023000000
 - expected_values:
     CHALLENGER_TP_RR_7DA: 30.45741
   response: 7DB0662A023544D67
