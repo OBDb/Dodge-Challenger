@@ -1,40 +1,40 @@
 command_id: 7E0.7E8.22043B
 test_cases:
 - expected_values:
-    DODGE_ODO: 72179.712
+    CHALLENGER_ODO: 72179.712
   response: '7E8 05 62 04 3B 22 6B '
 - expected_values:
-    DODGE_ODO: 72196.096
+    CHALLENGER_ODO: 72196.096
   response: '7E8 05 62 04 3B 22 6D '
 - expected_values:
-    DODGE_ODO: 57565.184
+    CHALLENGER_ODO: 57565.184
   response: 7E80562043B1B73
 - expected_values:
-    DODGE_ODO: 58712.064
+    CHALLENGER_ODO: 58712.064
   response: 7E80562043B1BFF
 - expected_values:
-    DODGE_ODO: 60604.416
+    CHALLENGER_ODO: 60604.416
   response: |-
     7E80562043B1CE6
     7E80562043B1CE6
 - expected_values:
-    DODGE_ODO: 60817.408
+    CHALLENGER_ODO: 60817.408
   response: 7E80562043B1D00
 - expected_values:
-    DODGE_ODO: 63094.784
+    CHALLENGER_ODO: 63094.784
   response: |-
     7E80562043B1E16
     7E80562043B1E16
 - expected_values:
-    DODGE_ODO: 63447.04
+    CHALLENGER_ODO: 63447.04
   response: |-
     7E80562043B1E41
     7E80562043B1E41
 - expected_values:
-    DODGE_ODO: 64315.392
+    CHALLENGER_ODO: 64315.392
   response: |-
     7E80562043B1EAB
     7E80562043B1EAB
 - expected_values:
-    DODGE_ODO: 71319.552
+    CHALLENGER_ODO: 71319.552
   response: 7E80562043B2202

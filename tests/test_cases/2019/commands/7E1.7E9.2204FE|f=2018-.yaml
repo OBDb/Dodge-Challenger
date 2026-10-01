@@ -1,11 +1,11 @@
-command_id: 7E1.7E9.2204FE
+command_id: 7E1.7E9.2204FE|f=2018-
 test_cases:
 - expected_values:
-    DODGE_ATF_T: 62.6
+    CHALLENGER_ATF_T: 62.6
   response: 7E9066204FE393837
 - expected_values:
-    DODGE_ATF_T: 215.6
+    CHALLENGER_ATF_T: 215.6
   response: 7E9066204FE8E8F8E
 - expected_values:
-    DODGE_ATF_T: 221
+    CHALLENGER_ATF_T: 221
   response: 7E9066204FE918988

@@ -1,0 +1,11 @@
+command_id: 7DA.22A022|f=-2016
+test_cases:
+- expected_values:
+    CHALLENGER_TP_RL_7DA: 0
+  response: 7DB0662A022000000
+- expected_values:
+    CHALLENGER_TP_RL_7DA: 29.00706
+  response: 7DB0662A022504C67
+- expected_values:
+    CHALLENGER_TP_RL_7DA: 31.18259
+  response: 7DB0662A022565B07

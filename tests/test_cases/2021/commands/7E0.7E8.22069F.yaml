@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22069F
 test_cases:
 - expected_values:
-    DODGE_VARIABLE_VLV_TIM_OIL_T: 16
+    CHALLENGER_VARIABLE_VLV_TIM_OIL_T: 16
   response: 7E80462069F50
 - expected_values:
-    DODGE_VARIABLE_VLV_TIM_OIL_T: 97
+    CHALLENGER_VARIABLE_VLV_TIM_OIL_T: 97
   response: 7E80462069FA1
