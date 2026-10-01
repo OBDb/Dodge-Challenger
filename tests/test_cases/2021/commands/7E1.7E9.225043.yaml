@@ -1,0 +1,17 @@
+command_id: 7E1.7E9.225043
+test_cases:
+- expected_values:
+    CHALLENGER_ATF_T_7E1: 25
+  response: '7E90462504341'
+- expected_values:
+    CHALLENGER_ATF_T_7E1: 26
+  response: '7E90462504342'
+- expected_values:
+    CHALLENGER_ATF_T_7E1: 90
+  response: '7E90462504382'
+- expected_values:
+    CHALLENGER_ATF_T_7E1: 92
+  response: '7E90462504384'
+- expected_values:
+    CHALLENGER_ATF_T_7E1: 94
+  response: '7E90462504386'
