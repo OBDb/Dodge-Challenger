@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.220227
 test_cases:
 - expected_values:
-    CHALLENGER_FLI_INPUT: 100
+    CHALLENGER_FLI_INPUT: 53.72549
   response: '7E80462022789'
 - expected_values:
-    CHALLENGER_FLI_INPUT: 100
+    CHALLENGER_FLI_INPUT: 70.98039
   response: 7E804620227B5
