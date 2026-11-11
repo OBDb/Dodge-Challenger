@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     CHALLENGER_ODO: 164134.912
   response: 7E80562043B4E44
+- expected_values:
+    CHALLENGER_ODO: 172851.2
+  response: 7E80562043B526C
