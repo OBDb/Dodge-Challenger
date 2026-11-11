@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220236
+test_cases:
+- expected_values:
+    CHALLENGER_INJ_WIDTH_CYL_3: 0
+  response: '7E80762023600000000'
+- expected_values:
+    CHALLENGER_INJ_WIDTH_CYL_3: 4.344
+  response: 7E807620236000010F8
+- expected_values:
+    CHALLENGER_INJ_WIDTH_CYL_3: 8.024
+  response: 7E80762023600001F58

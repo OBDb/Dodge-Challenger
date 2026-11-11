@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22069F
+test_cases:
+- expected_values:
+    CHALLENGER_VARIABLE_VLV_TIM_OIL_T: 34
+  response: 7E80462069F62
+- expected_values:
+    CHALLENGER_VARIABLE_VLV_TIM_OIL_T: 83
+  response: 7E80462069F93

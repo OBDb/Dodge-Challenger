@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22061B|f=-2018
+test_cases:
+- expected_values:
+    CHALLENGER_EXH_CAM_1_OFFSET: 0
+  response: 7E80562061B0000
+- expected_values:
+    CHALLENGER_EXH_CAM_1_OFFSET: 1.6
+  response: 7E80562061B0010

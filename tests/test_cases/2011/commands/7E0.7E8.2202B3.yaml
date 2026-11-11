@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2202B3
+test_cases:
+- expected_values:
+    CHALLENGER_REQUIRED_FUEL_CHG_2: 7.26562
+  response: 7E8056202B301D1
+- expected_values:
+    CHALLENGER_REQUIRED_FUEL_CHG_2: 27.92188
+  response: 7E8056202B306FB
+- expected_values:
+    CHALLENGER_REQUIRED_FUEL_CHG_2: 28.1875
+  response: 7E8056202B3070C

@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2201A9
+test_cases:
+- expected_values:
+    CHALLENGER_KNOCK_SENS_1: 0.38087
+  response: 7E8056201A91380
+- expected_values:
+    CHALLENGER_KNOCK_SENS_1: 0.41016
+  response: 7E8056201A91500
+- expected_values:
+    CHALLENGER_KNOCK_SENS_1: 0.44434
+  response: 7E8056201A916C0
+- expected_values:
+    CHALLENGER_KNOCK_SENS_1: 1.26467
+  response: 7E8056201A940C0
