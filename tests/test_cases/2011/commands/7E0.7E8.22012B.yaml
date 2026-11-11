@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22012B
+test_cases:
+- expected_values:
+    CHALLENGER_CAT_MODEL_T: 427
+  response: 7E80562012B01AB
+- expected_values:
+    CHALLENGER_CAT_MODEL_T: 551
+  response: 7E80562012B0227
+- expected_values:
+    CHALLENGER_CAT_MODEL_T: 727
+  response: 7E80562012B02D7

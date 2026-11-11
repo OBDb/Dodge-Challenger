@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220174
+test_cases:
+- expected_values:
+    CHALLENGER_MAP: 22
+  response: 7E805620174006E
+- expected_values:
+    CHALLENGER_MAP: 47.8
+  response: 7E80562017400EF
+- expected_values:
+    CHALLENGER_MAP: 66.8
+  response: 7E805620174014E

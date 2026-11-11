@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.2201FF
+test_cases:
+- expected_values:
+    CHALLENGER_IAT_01FF: 36
+  response: 7E8056201FF0064
+- expected_values:
+    CHALLENGER_IAT_01FF: 37
+  response: 7E8056201FF0065
+- expected_values:
+    CHALLENGER_IAT_01FF: 38
+  response: 7E8056201FF0066
+- expected_values:
+    CHALLENGER_IAT_01FF: 39
+  response: 7E8056201FF0067
+- expected_values:
+    CHALLENGER_IAT_01FF: 40
+  response: 7E8056201FF0068
+- expected_values:
+    CHALLENGER_IAT_01FF: 41
+  response: 7E8056201FF0069
+- expected_values:
+    CHALLENGER_IAT_01FF: 42
+  response: 7E8056201FF006A

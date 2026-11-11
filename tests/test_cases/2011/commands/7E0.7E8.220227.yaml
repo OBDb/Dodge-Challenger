@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.220227
+test_cases:
+- expected_values:
+    CHALLENGER_FLI_INPUT: 52.54902
+  response: '7E80462022786'
+- expected_values:
+    CHALLENGER_FLI_INPUT: 53.33333
+  response: '7E80462022788'
+- expected_values:
+    CHALLENGER_FLI_INPUT: 53.72549
+  response: '7E80462022789'
+- expected_values:
+    CHALLENGER_FLI_INPUT: 54.11765
+  response: 7E8046202278A
+- expected_values:
+    CHALLENGER_FLI_INPUT: 54.5098
+  response: 7E8046202278B
