@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.221250
 test_cases:
 - expected_values:
-    CHALLENGER_CHG_AIR_T: 64.6
-  response: '7E80462125052'
+    CHALLENGER_CHG_AIR_T: 62.8
+  response: '7E80462125051'
 - expected_values:
     CHALLENGER_CHG_AIR_T: 73.6
   response: |-
