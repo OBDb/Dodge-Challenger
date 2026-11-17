@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.220329
 test_cases:
 - expected_values:
-    CHALLENGER_AC_HIGH_SIDE_P: 462
-  response: '7E80462032921'
+    CHALLENGER_AC_HIGH_SIDE_P: 434
+  response: 7E8046203291F
 - expected_values:
     CHALLENGER_AC_HIGH_SIDE_P: 1414
   response: '7E80462032965'
