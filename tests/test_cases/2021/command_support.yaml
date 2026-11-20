@@ -272,6 +272,7 @@ unsupported_commands_by_ecu:
   - 7E0.7E8.22B09B
   "7E1":
   - 7E1.7E9.0101
+  - 7E1.7E9.010C
   - 7E1.7E9.0121
   - 7E1.7E9.0130
   - 7E1.7E9.210A:CHALLENGER_TRANS_T_VAR_2
